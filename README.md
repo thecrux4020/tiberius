@@ -13,6 +13,7 @@ Tiberius is a tool that crawls CertificateTransparency logs to find vulnerable C
 * pip install -r requirements.txt
 
 # **Usage** #
+* python3 tiberius.py
 
 # **Requirements** #
 * Python3
@@ -21,5 +22,5 @@ Tiberius is a tool that crawls CertificateTransparency logs to find vulnerable C
 # **Legal Disclaimer** #
 This project is made for educational and ethical testing purposes only. Usage of Tiberius for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-## Author
+# *Author* #
 * [leandro.mantovani93@gmail.com](leandro.mantovani93@gmail.com)
