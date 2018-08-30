@@ -1,5 +1,5 @@
-from CertificateTransparency import *
-from CMSCrawler import *
+from modules.CertificateTransparency import *
+from modules.CMSCrawler import *
 import time
 
 def main():

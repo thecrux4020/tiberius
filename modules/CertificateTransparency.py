@@ -2,7 +2,7 @@ import requests
 import json
 import time
 import base64
-import ctl_parser_structures
+from modules import ctl_parser_structures
 from pyasn1.codec.der import decoder
 from pyasn1_modules import pem, rfc2459
 from OpenSSL import crypto
